@@ -6,6 +6,7 @@
   "scripts": {
     "index": "node --watch ./index.js",
     "animals": "node --watch ./animals.js",
+    "static": "node --watch ./static.js",
     "pet": "node --watch ./js/Pet.js",
     "dog": "node --watch ./js/Dog.js",
     "cat": "node --watch ./js/Cat.js",
