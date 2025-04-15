@@ -5,6 +5,13 @@
   "main": "index.js",
   "scripts": {
     "index": "node --watch ./index.js",
+    "animals": "node --watch ./animals.js",
+    "pet": "node --watch ./js/Pet.js",
+    "dog": "node --watch ./js/Dog.js",
+    "cat": "node --watch ./js/Cat.js",
+    "car": "node --watch ./js/Car.js",
+    "fish": "node --watch ./js/Fish.js",
+    "hamster": "node --watch ./js/Hamster.js",
     "auto": "node --watch ./auto.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
